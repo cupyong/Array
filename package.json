@@ -1,0 +1,22 @@
+{
+  "name": "array",
+  "version": "1.0.0",
+  "description": "array",
+  "main": "index.js",
+  "scripts": {
+    "test": "array"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cupyong/Array.git"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "cupyong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cupyong/Array/issues"
+  },
+  "homepage": "https://github.com/cupyong/Array#readme"
+}
