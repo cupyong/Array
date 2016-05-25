@@ -51,3 +51,9 @@ console.log('被删除的元素: ' + shifted);
 var monthNames = ['Jan', 'Feb', 'Mar', 'Apr'];
 var myVar = monthNames.toString();
 console.log(myVar)
+
+
+var alpha = new Array("a", "b", "c");
+
+alpha.toSource();   //返回["a", "b", "c"]
+console.log(alpha.toSource())
